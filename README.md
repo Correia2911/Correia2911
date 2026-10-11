@@ -1,9 +1,16 @@
-# Correia2911
+- 👋 Hi, I’m @Correia2911
+- 👀 I’m interested in learning more .
+- 🌱 I’m currently learning version control .
+- 💞️ I’m looking to collaborate on a project so I could see how is done .
+- 📫 How to reach me trought my emal gelboy71@gmail.com
+- 😄 Pronouns: Him
+- ⚡ Fun fact: Never to late to learn .
 
-A collection of small C# practice programs.
+<!---
+Correia2911/Correia2911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 ## Projects
 
-- [Anonymous Income Comparison](AnonymousIncomeComparison/README.md) — compares the annual income of two people based on hourly rate and hours worked per week.
-
-Each project folder contains its own .NET project file and run instructions.
+- [Anonymous Income Comparison](AnonymousIncomeComparison/README.md) — a beginner C# console program that compares two estimated annual incomes.
