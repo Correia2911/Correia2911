@@ -15,3 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 - [Anonymous Income Comparison](AnonymousIncomeComparison/README.md) — a beginner C# console program that compares two estimated annual incomes.
 - [String Operations Demonstration](StringOperations/README.md) — a beginner C# console program that demonstrates string concatenation, uppercase conversion, and `StringBuilder`.
+- [Optional Parameter Method Assignment](OptionalParameterAssignment/README.md) — a beginner C# console program that demonstrates a method with an optional integer parameter.
