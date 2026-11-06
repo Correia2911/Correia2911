@@ -14,3 +14,4 @@ You can click the Preview link to take a look at your changes.
 ## Projects
 
 - [Anonymous Income Comparison](AnonymousIncomeComparison/README.md) — a beginner C# console program that compares two estimated annual incomes.
+- [String Operations Demonstration](StringOperations/README.md) — a beginner C# console program that demonstrates string concatenation, uppercase conversion, and `StringBuilder`.

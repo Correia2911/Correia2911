@@ -6,6 +6,49 @@ namespace AnonymousIncomeComparison
     {
         static void Main(string[] args)
         {
+            // Display a heading for the first loop demonstration.
+            Console.WriteLine("WHILE loop boolean comparison");
+
+            // Start the counter at 1 so the loop can show three counting steps.
+            int whileNumber = 1;
+
+            // Compare whileNumber with 3 before each repetition.
+            // The expression whileNumber <= 3 is a Boolean comparison:
+            // it evaluates to true or false.
+            while (whileNumber <= 3)
+            {
+                // Display the current counter value while the comparison is true.
+                Console.WriteLine($"The while loop count is {whileNumber}.");
+
+                // Add 1 so the comparison will eventually become false
+                // and the loop will stop.
+                whileNumber++;
+            }
+
+            // Add an empty line to separate the two loop demonstrations.
+            Console.WriteLine();
+
+            // Display a heading for the second loop demonstration.
+            Console.WriteLine("DO WHILE loop boolean comparison");
+
+            // Start this demonstration's counter at 1.
+            int doWhileNumber = 1;
+
+            // A do while loop runs its body once before checking its condition.
+            do
+            {
+                // Display the current counter value before the condition is checked.
+                Console.WriteLine($"The do while loop count is {doWhileNumber}.");
+
+                // Add 1 so the comparison will eventually become false.
+                doWhileNumber++;
+            }
+            // Repeat while doWhileNumber is less than or equal to 3.
+            while (doWhileNumber <= 3);
+
+            // Add an empty line before starting the income comparison program.
+            Console.WriteLine();
+
             // Display the title of the program.
             Console.WriteLine("Anonymous Income Comparison Program");
 
@@ -65,8 +108,6 @@ namespace AnonymousIncomeComparison
             // Display the result of the comparison.
             Console.WriteLine(person1MakesMoreMoney);
 
-            // Keep the console window open until a key is pressed.
-            Console.ReadKey();
         }
     }
 }
