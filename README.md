@@ -19,3 +19,4 @@ You can click the Preview link to take a look at your changes.
 - [Void Method and Named Parameters](VoidMethodParameters/README.md) — a beginner C# console program that demonstrates a void method with two integer parameters and positional and named arguments.
 - [Class Method Assignment](ClassMethodAssignment/README.md) — a beginner C# console program that demonstrates integer division, output parameters, method overloading, and a static class.
 - [Methods and Objects Assignment](MethodsAndObjectsAssignment/README.md) — a beginner C# console program that demonstrates properties, inheritance, and an inherited method.
+- [Abstract Class Assignment](AbstractClassAssignment/README.md) — a beginner C# console program that demonstrates abstract classes, inheritance, and method overriding.
