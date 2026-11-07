@@ -20,3 +20,4 @@ You can click the Preview link to take a look at your changes.
 - [Class Method Assignment](ClassMethodAssignment/README.md) — a beginner C# console program that demonstrates integer division, output parameters, method overloading, and a static class.
 - [Methods and Objects Assignment](MethodsAndObjectsAssignment/README.md) — a beginner C# console program that demonstrates properties, inheritance, and an inherited method.
 - [Abstract Class Assignment](AbstractClassAssignment/README.md) — a beginner C# console program that demonstrates abstract classes, inheritance, and method overriding.
+- [Polymorphism Assignment](PolymorphismAssignment/README.md) — a beginner C# console program that demonstrates an interface and polymorphic method call.
