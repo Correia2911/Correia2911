@@ -24,3 +24,4 @@ You can click the Preview link to take a look at your changes.
 - [Employee Equality Assignment](EmployeeEqualityAssignment/README.md) — a beginner C# console program that overloads equality operators to compare employees by ID.
 - [Parsing Enums Assignment](ParsingEnumsAssignment/README.md) — a beginner C# console program that parses and validates a day-of-week enum.
 - [Struct Assignment](StructAssignment/README.md) — a beginner C# console program that defines a `Number` struct with a decimal amount.
+- [Lambda Expression Assignment](LambdaExpressionAssignment/README.md) — a beginner C# console program that filters employees with loops and lambda expressions.
