@@ -22,3 +22,4 @@ You can click the Preview link to take a look at your changes.
 - [Abstract Class Assignment](AbstractClassAssignment/README.md) — a beginner C# console program that demonstrates abstract classes, inheritance, and method overriding.
 - [Polymorphism Assignment](PolymorphismAssignment/README.md) — a beginner C# console program that demonstrates an interface and polymorphic method call.
 - [Employee Equality Assignment](EmployeeEqualityAssignment/README.md) — a beginner C# console program that overloads equality operators to compare employees by ID.
+- [Parsing Enums Assignment](ParsingEnumsAssignment/README.md) — a beginner C# console program that parses and validates a day-of-week enum.
