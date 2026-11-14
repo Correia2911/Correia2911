@@ -25,3 +25,4 @@ You can click the Preview link to take a look at your changes.
 - [Parsing Enums Assignment](ParsingEnumsAssignment/README.md) — a beginner C# console program that parses and validates a day-of-week enum.
 - [Struct Assignment](StructAssignment/README.md) — a beginner C# console program that defines a `Number` struct with a decimal amount.
 - [Lambda Expression Assignment](LambdaExpressionAssignment/README.md) — a beginner C# console program that filters employees with loops and lambda expressions.
+- [Input Assignment](InputAssignment/README.md) — a beginner C# console program that writes a user-entered number to a text file and displays its contents.
